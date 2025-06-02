@@ -91,7 +91,13 @@ file_persistence:
 
 ---
 
+
+
 ## 🌟Acknowledgment
 This project is part of my academic Java practice to learn OOP, GUI, and file handling.
 
 ---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
