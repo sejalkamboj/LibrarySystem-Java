@@ -45,6 +45,7 @@ This is a **Library Management System** built using Java and Java Swing. It prov
 ---
 
 ## 📂 Project Structure
+```
 📁 library/
 ├── Book.java
 ├── Member.java
@@ -55,8 +56,8 @@ This is a **Library Management System** built using Java and Java Swing. It prov
 ├── MaxLimitReachedException.java
 ├── books.txt
 ├── members.txt
-└── images
-
+└── images/
+```
 
 ---
 
@@ -70,10 +71,12 @@ This is a **Library Management System** built using Java and Java Swing. It prov
 
 ### Run Instructions
 
-git clone https://github.com/sejalkamboj/LibrarySystem-Java.git
-cd LibrarySystem-Java
-javac *.java
-java LibraryGUI
+```
+ git clone https://github.com/sejalkamboj/LibrarySystem-Java.git
+ cd LibrarySystem-Java
+ javac *.java
+ java LibraryGUI
+```
 
 ---
 
